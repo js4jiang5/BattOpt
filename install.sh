@@ -10,7 +10,7 @@ echo -e "####################################################################\n\
 tempfolder=$HOME/.battopt-tmp
 mkdir -p "$tempfolder"
 function cleanup() { rm -rf "$tempfolder"; }
-#trap cleanup EXIT
+trap cleanup EXIT
 
 # Ask for sudo once, in most systems this will cache the permissions for a bit
 sudo echo "🔋 Starting battopt installation"
