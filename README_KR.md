@@ -22,9 +22,9 @@
 
 ---
 
-### 🌍 스크린샷 &nbsp;[(상세 매뉴얼)](https://battopt.buddha-path.top/manual.html)
+### 🌍 스크린샷 &nbsp;[(상세 매뉴얼)](https://battopt.buddha-path.top/manual_kr.html)
 **BattOpt**는 직관적인 GUI와 강력한 CLI를 결합한 설계를 갖추고 있습니다. 위치 기반 **영역(Zone)** 설정을 통해 집, 직장, 여행지에 따라 충전 제한을 별도로 구성할 수 있습니다.
-[![한국어 GUI](assets/screenshots/kr/gui-config-zone.png)](https://battopt.buddha-path.top/manual.html)
+[![한국어 GUI](assets/screenshots/kr/gui-config-zone.png)](https://battopt.buddha-path.top/manual_kr.html)
 
 ---
 

@@ -22,9 +22,9 @@
 
 ---
 
-### 🌍 介面預覽 &nbsp;[(更多預覽)](https://battopt.buddha-path.top/manual.html)
+### 🌍 介面預覽 &nbsp;[(更多預覽)](https://battopt.buddha-path.top/manual_tw.html)
 **BattOpt** 採用 GUI/CLI 雙介面設計，具備地點感知功能（**區域設定**），可針對「居家」、「工作」與「旅行」分別設定不同的充電限制。
-[![繁體中文 GUI](assets/screenshots/tw/gui-config-zone.png)](https://battopt.buddha-path.top/manual.html)
+[![繁體中文 GUI](assets/screenshots/tw/gui-config-zone.png)](https://battopt.buddha-path.top/manual_tw.html)
 
 ---
 
