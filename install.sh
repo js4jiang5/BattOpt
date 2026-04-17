@@ -18,13 +18,14 @@ echo "[ 1 ] Superuser permissions acquired."
 
 # Note: github names zips by <reponame>-<branchname>.replace( '/', '-' )
 echo "[ 2 ] Downloading latest version of battopt"
-curl -sSL -o "$tempfolder/battopt" "https://github.com/js4jiang5/BattOpt/releases/download/v0.0.2/battopt1012"
+curl -sSL -o "$tempfolder/battopt" "https://github.com/js4jiang5/BattOpt/releases/latest/download/battopt1012"
 curl -sSL -o "$tempfolder/notification_permission.scpt" "https://github.com/js4jiang5/BattOpt/raw/refs/heads/main/assets/notification_permission.scpt"
 sudo chmod -h 755 "$tempfolder/battopt"
 sudo chmod -h 755 "$tempfolder/notification_permission.scpt"
 
 echo "[ 3 ] Setup battopt"
 sudo "$tempfolder/battopt" setup
+eval $(/usr/libexec/path_helper -s)
 
 # Enable notification permission for Script Editor
 echo "[ 4 ] Open Script Editor for notifications"
