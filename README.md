@@ -22,7 +22,7 @@
 
 ---
 
-### 🌍 Snapshot nbsp&;&nbsp;[(More Snapshots)](https://battopt.buddha-path.top/manual.html)
+### 🌍 Snapshot &nbsp;&nbsp;[(More Snapshots)](https://battopt.buddha-path.top/manual.html)
 **BattOpt** features a hybrid GUI/CLI design with location-based **Zone** settings to setup charge limits separately for Home, Work, and Travel.
 [![English GUI](assets/screenshots/en/gui-config-zone.png)](https://battopt.buddha-path.top/manual.html)
 
