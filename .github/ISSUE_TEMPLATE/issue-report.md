@@ -7,14 +7,14 @@ assignees: ''
 
 ---
 
-**Paste "battopt info" result**
+**1. Paste "battopt info" result**
 
-**Paste "battopt status" result**
+**2. Paste "battopt status" result**
 
-**Describe the Issue**
+**3. Describe the Issue**
 A clear and concise description of what the issue is.
 
-**Expected behavior**
+**4. Expected behavior**
 A clear and concise description of what you expected to happen.
 
-**Paste "battopt log" result**
+**5. Paste "battopt log" result**
