@@ -25,7 +25,7 @@ sudo chmod -h 755 "$tempfolder/notification_permission.scpt"
 
 echo "[ 3 ] Setup battopt"
 sudo "$tempfolder/battopt" setup
-eval $(/usr/libexec/path_helper -s) 
+eval $(/usr/libexec/path_helper -s)
 
 # Enable notification permission for Script Editor
 echo "[ 4 ] Open Script Editor for notifications"
