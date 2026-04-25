@@ -119,7 +119,7 @@ To ensure BattOpt functions correctly, please adjust the following macOS setting
 ### 1. Disable System Optimization
 Avoid conflicts with native macOS battery management:
 * Go to **System Settings > Battery > Battery Health**.
-* Click the **ⓘ** icon and toggle **OFF** "Optimized Battery Charging".
+* Click the **ⓘ** icon, toggle **OFF** "Optimized Battery Charging" and set **Charge Limit** to **100%** for macOS 26.4 or higher.
 
 ### 2. Notification Configuration
 To ensure you receive status alerts successfully:

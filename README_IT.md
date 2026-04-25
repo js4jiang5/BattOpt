@@ -119,7 +119,7 @@ Per assicurarti che BattOpt funzioni correttamente, regola le seguenti impostazi
 ### 1. Disattiva l'ottimizzazione di sistema
 Evita conflitti con la gestione nativa di macOS:
 * Vai in **Impostazioni di Sistema > Batteria > Stato della batteria**.
-* Clicca sull'icona **ⓘ** e disattiva "**Caricamento ottimizzato**".
+* Clicca sull'icona **ⓘ**, **disattiva** „**Caricamento ottimizzato**” e imposta il **Limite di caricamento** al **100%** per macOS 26.4 o versioni successive.
 
 ### 2. Impostazioni notifiche
 Per ricevere correttamente gli avvisi di stato:

@@ -119,7 +119,7 @@ Pour vous assurer que BattOpt fonctionne correctement, ajustez les réglages mac
 ### 1. Désactiver l'optimisation du système
 Évitez les conflits avec la gestion native de macOS :
 * Allez dans **Réglages Système > Batterie > Santé de la batterie**.
-* Cliquez sur l'icône **ⓘ** et désactivez "**Recharge optimisée de la batterie**".
+* Cliquez sur l'icône **ⓘ**, **désactivez** la « **Recharge optimisée de la batterie** » et réglez la **Limite de recharge** sur **100 %** pour macOS 26.4 ou supérieur.
 
 ### 2. Réglages des notifications
 Pour recevoir correctement les alertes d'état :
