@@ -1,0 +1,39 @@
+v1.0.5
+- replace Zone Picker with Zone Toolbar to switch zones for layout consistency
+- simplify limit toggle and button name for intuitive usage
+
+v1.0.4
+- avoid using black text considering some users prefer dark theme
+- move Zone to sidebar and rename to Limiter for more intuitive and convenient usage
+- reorder sidebar and set Limiter as default
+- simplify limit command for Home zone
+- solve double icon issues for some legacy Mac models
+- solve the issue that toolbars are not shown in macOS 13
+- fix the bug that icon is missing when power source is battery
+
+v1.0.3
+- fix the issue that zone is always 'Home' when running 'battopt status'
+- fix the issue that limit value is not consistent with zone settings in dashboard
+- fix the issue that status is not complete when chosen language is English
+- try to fix the issue that next calibration time at year 2036 after initial installation for 2 pioneers
+- try to fix the issue that 90-day trial has expired after installation for 2 pioneers
+
+v1.0.2
+- fix the bug of double logo icons in menubar
+- show minutes as 2 digit-number in ScheduleView
+- improve 'start at login' consistency with background activity system settings for Tahoe
+
+v1.0.1
+- Fix the issue that WiFi SSID is not detected
+- Fix the issue that Start at Login is shown as false when user has already allowed in system settings
+
+v1.0.0
+BattOpt first formal release. Main features include
+- High Efficiency
+- Login-free & Bootcamp Support
+- Event-Trigger Framework
+- GUI & CLI Interfaces
+- Broad Compatibility
+- Clamshell Mode Support
+- Zone Awareness
+- Heat Protection
