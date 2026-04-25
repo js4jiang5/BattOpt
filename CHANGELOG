@@ -1,3 +1,8 @@
+v1.0.6
+This update is critical. Please don't skip.
+- kill zombie processes generated in previous updates
+- Change menubar icon which reflect megasafe LED color
+
 v1.0.5
 - replace Zone Picker with Zone Toolbar to switch zones for layout consistency
 - simplify limit toggle and button name for intuitive usage
