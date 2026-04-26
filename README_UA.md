@@ -24,7 +24,7 @@
 
 ### 🌍 Огляд &nbsp;[(Докладний посібник)](https://battopt.buddha-path.top/manual_ua.html)
 **BattOpt** має гібридний дизайн GUI/CLI з налаштуваннями **Зон** на основі розташування, що дозволяє встановлювати окремі ліміти заряджання для Дому, Роботи та Подорожей.
-[![GUI українською](assets/screenshots/ua/gui-config-zone.png)](https://battopt.buddha-path.top/manual_ua.html)
+[![GUI українською](assets/screenshots/ua/gui-limit-home.png)](https://battopt.buddha-path.top/manual_ua.html)
 
 ---
 

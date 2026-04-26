@@ -24,7 +24,7 @@
 
 ### 🌍 Aperçu &nbsp;[(Manuel détaillé)](https://battopt.buddha-path.top/manual_fr.html)
 **BattOpt** propose une conception hybride GUI/CLI avec des paramètres de **Zones** basés sur la localisation pour configurer des limites de charge distinctes pour la Maison, le Travail et les Voyages.
-[![GUI en Français](assets/screenshots/fr/gui-config-zone.png)](https://battopt.buddha-path.top/manual_fr.html)
+[![GUI en Français](assets/screenshots/fr/gui-limit-home.png)](https://battopt.buddha-path.top/manual_fr.html)
 
 ---
 
