@@ -1,9 +1,14 @@
+v1.0.8
+- improve CPU usage efficient to reduce power consumption
+- solve memory leak issue caused by menubar popup window
+- improve compatibility for users with customized group ID
+
 v1.0.7
 This update is critical. Please don't skip
 - solve the issue that 'battopt calibrate' process not terminated if execution is interrupted
 - shrink docker icon to be consistent with the other Apps
 - show health/temperature/power in menubar popup window
-- add "Charge to 100%" and "Calibration Now" buttons in menubar popup window
+- add 'Charge to 100%' and 'Calibration Now' buttons in menubar popup window
 - add battery settings modifiction reminder when users first install BattOpt
 - modify menubar icons of calibration
 
