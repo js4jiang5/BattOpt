@@ -1,3 +1,8 @@
+v1.0.10
+- fix the issue that upper-right part of dashboard is not right aligned in some older macOS
+- fix the issue that display no longer sleep if clamshell mode is changed to 0 during discharge
+- fix the issue that menubar icon color is not changed when charge power source is not Magsafe
+
 v1.0.9
 - solve the issue of double App icons in Docker
 - solve the issue that update notification is not solved by some users
