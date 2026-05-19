@@ -1,3 +1,13 @@
+v1.1.0
+- add android phone monitor feature, including
+  (1) daily record phone battery health, cycle, temperature, etc.
+  (2) heat alert
+  (3) set battery protect level (charge limit)
+- zone feature support router MAC address
+- solve the issue of race condition between daemon and GUI that trigger password prompt
+- solve the issue that clamshell mode make Amphetamine or similar tools become ineffective
+- solve the issue that LED color is sometimes incorrect in LIMIT mode
+
 v1.0.10
 - fix the issue that upper-right part of dashboard is not right aligned in some older macOS
 - fix the issue that display no longer sleep if clamshell mode is changed to 0 during discharge
