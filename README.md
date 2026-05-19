@@ -8,7 +8,8 @@
 
 <p align="center">
   <b>Hybrid GUI/CLI interface</b><br>
-  Works for both Intel & Apple Silicon Macbooks
+  Works for both Intel & Apple Silicon Macbooks<br>
+  <b>Safeguarding both your MacBook and Android phone batteries simultaneously</b>
 </p>
 
 <p align="center">
@@ -23,7 +24,7 @@
 ---
 
 ### 🌍 Snapshot &nbsp;&nbsp;[(More Snapshots)](https://battopt.buddha-path.top/manual.html)
-**BattOpt** features a hybrid GUI/CLI design with location-based **Zone** settings to setup charge limits separately for Home, Work, and Travel.
+**BattOpt** features a hybrid GUI/CLI design with location-based **Zone** settings to setup charge limits separately for Home, Work, and Travel. The latest release officially integrates the [Andish](https://github.com/js4jiang5/Andish) core, enabling you to remotely monitor and protect your Android phone battery directly from your Mac!
 [![English GUI](assets/screenshots/en/gui-limit-home.png)](https://battopt.buddha-path.top/manual.html)
 
 ---
@@ -40,6 +41,13 @@
 * **Event-Triggered Logic:** Operates only when capacity changes, keeping CPU idle most of the time.
 * **Sleep & Shutdown:** Limits remain active during sleep and shutdown (macOS 14.6 and earlier).
 * **Bootcamp:** Limiter is started before user login, making it work even in Bootcamp.
+
+### 📱 Cross-Platform Phone Monitoring ([Andish Ecosystem](https://github.com/js4jiang5/Andish)) 🚀 NEW!
+Perfect for dual-wielding users who own both a Mac and an Android device. Leveraging powerful Wi-Fi ADB technology, you can link your phone's battery status seamlessly with your Mac's menu bar (Powered by the [Andish](https://github.com/js4jiang5/Andish) module. Please refer to Andish for WiFi ADB Prerequisite and post installation):
+* **Remote Scheduled Logging:** Automatically fetches and tracks Android battery health, cycle counts, temperature, voltage, ASOC, and BSOH daily.
+* **Phone Charge Limiter:** Remotely set a charging ceiling (20% - 100%) for your Android device to significantly prolong its battery lifespan.
+* **Overheating Alerts:** Define a custom critical temperature threshold; your Mac will actively trigger voice announcements and system notifications if your phone overheats (ideal for preventing Samsung screen green-line issues induced by heat).
+* **Smart Automation (LADB Linkage):** Integrates flawlessly with the phone's LADB and Bixby Routines to auto-enable wireless debugging when you connect to your home Wi-Fi. If BattOpt detects that LADB was accidentally left open on your device, the Mac daemon will remotely terminate it to save phone battery.
 
 ### 💻 Clamshell Mode
 Convenient for users who use their MacBook as a desktop replacement.

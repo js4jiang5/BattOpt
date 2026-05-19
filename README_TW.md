@@ -8,7 +8,8 @@
 
 <p align="center">
   <b>GUI 與 CLI 雙介面設計</b><br>
-  支援 Intel 與 Apple Silicon MacBook
+  支援 Intel 與 Apple Silicon MacBook<br>
+  <b>同時守護您的 MacBook 與安卓手機電池健康</b>
 </p>
 
 <p align="center">
@@ -23,7 +24,7 @@
 ---
 
 ### 🌍 介面預覽 &nbsp;[(更多預覽)](https://battopt.buddha-path.top/manual_tw.html)
-**BattOpt** 採用 GUI/CLI 雙介面設計，具備地點感知功能（**區域設定**），可針對「居家」、「工作」與「旅行」分別設定不同的充電限制。
+**BattOpt** 採用 GUI/CLI 雙介面設計，具備地點感知功能（**區域設定**），可針對「居家」、「工作」與「旅行」分別設定不同的充電限制。全新版本已正式整合 [Andish](https://github.com/js4jiang5/Andish) 核心，支援在 Mac 上遠端定時監控與保護您的安卓手機電池！
 [![繁體中文 GUI](assets/screenshots/tw/gui-limit-home.png)](https://battopt.buddha-path.top/manual_tw.html)
 
 ---
@@ -40,6 +41,13 @@
 * **事件驅動邏輯：** 僅在電量變化時執行，讓 CPU 在大多數時間保持閒置。
 * **睡眠與關機：** 在睡眠與關機時限制依然有效（支援 macOS 14.6 及更早版本）。
 * **Bootcamp：** 限制器在使用者登入前即啟動，使其在 Bootcamp 中也能運作。
+
+### 📱 跨平台手機監控 ([Andish Ecosystem](https://github.com/js4jiang5/Andish)) 🚀 NEW!
+適合同時擁有 Mac 與安卓手機的雙棲使用者。透過強大的 Wi-Fi ADB 技術，將手機電池與 Mac 的選單列完美聯動（本功能基於專案 [Andish](https://github.com/js4jiang5/Andish) 模組開發，WiFi ADB 設定前置與後置作業請參考 Andish 專案）：
+* **遠端定時記錄：** 每日自動讀取並追蹤安卓手機電池健康度、循環次數、溫度、電壓、ASOC、BSOH。
+* **手機充電限制：** 遠端設定手機充電上限（20% - 100%），有效延長備用機與主力手機壽命。
+* **手機過熱示警：** 當手機電池超過自訂的臨界溫度時，Mac 端會主動發出語音示警與系統通知（如防禦三星手機因過熱誘發綠線災情）。
+* **智慧自動化（LADB 聯動）：** 支援配合手機端 LADB 與日常行程，回家連上 Wi-Fi 自動開啟無線偵錯。若 Andish 偵測到手機上的 LADB 忘記關閉，Mac 會自動遠端指令關閉手機端 LADB，維持手機省電。
 
 ### 💻 闔蓋模式 (Clamshell Mode)
 適合將 MacBook 作為桌機替代方案的使用者：
