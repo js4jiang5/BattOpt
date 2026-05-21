@@ -1,3 +1,6 @@
+v1.1.1
+- solve the issue that GUI becomes abnormal when both WiFi and Wired networks are available
+
 v1.1.0
 - add android phone monitor feature, including
   (1) daily record phone battery health, cycle, temperature, etc.
