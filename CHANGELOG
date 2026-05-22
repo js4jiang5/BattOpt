@@ -1,3 +1,6 @@
+v1.1.2
+- fixed a bug that battery is not charging when limit is disabled
+
 v1.1.1
 - solve the issue that GUI becomes abnormal when both WiFi and Wired networks are available
 
