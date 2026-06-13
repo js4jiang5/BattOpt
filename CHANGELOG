@@ -1,3 +1,7 @@
+v1.1.4
+- show current capacity percentage in menubar popup window
+- continue charging during sleep if 'charge to 100%' is running before sleep
+
 v1.1.3
 - fixed a bug that Display cannot sleep after calibration
 - improve calibration schedule trigger latency from 30 minutes to 10 seconds
