@@ -163,5 +163,5 @@ Distribuito sotto licenza MIT. Vedi il file `LICENSE` per i dettagli.
 > *Nota: Il nome del marchio BattOpt e il suo logo sono proprietà esclusiva. Tutti i diritti riservati.*
 
 ## 📃 Esclusione di responsabilità
-BattOpt utilizza chiamate di sistema a basso livello per gestire lo stato della batteria del tuo Mac. Sebbene sia stato ampiamente testato su MacBook M1 e modelli Intel precedenti, viene fornito "COSÌ COM'È" (AS IS) senza alcuna garanzia.
+BattOpt utilizza chiamate di sistema a basso livello per gestire lo stato della batteria del tuo Mac. Sebbene sia stato ampiamente testato su MacBook M1 e modelli Intel precedenti, viene fornito "COSÌ COM'È" (AS IS) senza alcuna garanzia, e il supporto per le future versioni di macOS non è garantito.
 Utilizzando BattOpt, l'utente riconosce di farlo a proprio rischio. Lo sviluppatore non sarà ritenuto responsabile per eventuali danni all'hardware o perdita di dati derivanti dall'uso di questo software.

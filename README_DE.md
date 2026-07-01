@@ -162,6 +162,6 @@ Beiträge, Fehlerberichte und Funktionsanfragen sind willkommen! Besuchen Sie ge
 Verteilt unter der MIT-Lizenz. Weitere Details finden Sie in der Datei `LICENSE`.
 > *Hinweis: Der Markenname BattOpt und das Logo sind geschützte Vermögenswerte. Alle Rechte vorbehalten.*
 
-## 📃 Haftungsausschluss
-BattOpt verwendet Low-Level-Systemaufrufe, um die Batterieleistung Ihres Macs zu verwalten. Obwohl es auf M1- und älteren Intel-MacBooks umfassend getestet wurde, wird es „WIE GESEHEN“ (AS IS) und ohne jegliche Gewährleistung bereitgestellt.
-Durch die Nutzung von BattOpt erkennen Sie an, dass dies auf Ihr eigenes Risiko erfolgt. Der Entwickler haftet nicht für Hardware-Schäden oder Datenverluste, die durch die Nutzung dieser Software entstehen.
+## 📃 Haftungsausschluss (Disclaimer)
+BattOpt verwendet Low-Level-Systemaufrufe, um die Batterieleistung Ihres Macs zu verwalten. Obwohl es auf M1- und älteren Intel-MacBooks umfassend getestet wurde, wird es „WIE GESEHEN“ (AS IS) und ohne jegliche Gewährleistung bereitgestellt. Die Kompatibilität mit zukünftigen macOS-Updates oder aktualisierten Versionen wird nicht garantiert.
+Durch die Nutzung von BattOpt erkennen Sie an, dass dies auf Ihr eigenes Risiko erfolgt. Der Entwickler haftet nicht für Hardware-Schäden, Datenverluste oder Systeminstabilitäten, die durch die Nutzung dieser Software entstehen.
