@@ -90,7 +90,7 @@ Alle Benutzer erhalten sofort nach der Installation eine **90-tägige kostenlose
 
 ### 🚀 Upgrade auf BattOpt Pro
 Nutzen Sie das volle Potenzial des Batteriemanagements Ihres MacBooks.
-**[Pro über Polar kaufen und aktivieren](https://polar.sh/checkout/polar_c_uaH8ALktJ3C6x6l1cfXhS1NXsAO8BA8WsLHuy1ubWUe)**
+**[Pro über Polar kaufen und aktivieren](https://buy.polar.sh/polar_cl_6lBz0uWJ9HA3a3tyFR1op9x6WBNTqSoqF8tge0XNcgu)**
 > *Hinweis: Bitte nutzen Sie den Testzeitraum, um vor dem Kauf zu bestätigen, dass alle Funktionen Ihren Erwartungen entsprechen.*
 
 ---

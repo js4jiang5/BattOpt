@@ -90,7 +90,7 @@ BattOpt는 배터리 건강 상태 추세를 추적할 수 있도록 로그를 �
 
 ### 🚀 BattOpt Pro로 업그레이드
 MacBook 배터리 관리의 잠재력을 최대한 활용해 보세요.
-**[Polar를 통해 Pro 구매 및 활성화](https://polar.sh/checkout/polar_c_uaH8ALktJ3C6x6l1cfXhS1NXsAO8BA8WsLHuy1ubWUe)**
+**[Polar를 통해 Pro 구매 및 활성화](https://buy.polar.sh/polar_cl_6lBz0uWJ9HA3a3tyFR1op9x6WBNTqSoqF8tge0XNcgu)**
 > *참고: 구매 전試用 기간을 통해 모든 기능이 기대에 부합하는지 확인하시기 바랍니다.*
 
 ---

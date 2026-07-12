@@ -90,7 +90,7 @@ BattOpt веде журнали для відстеження тенденцій
 
 ### 🚀 Оновити до BattOpt Pro
 Розкрийте повний потенціал керування акумулятором вашого MacBook.
-**[Купити та активувати Pro через Polar](https://polar.sh/checkout/polar_c_uaH8ALktJ3C6x6l1cfXhS1NXsAO8BA8WsLHuy1ubWUe)**
+**[Купити та активувати Pro через Polar](https://buy.polar.sh/polar_cl_6lBz0uWJ9HA3a3tyFR1op9x6WBNTqSoqF8tge0XNcgu)**
 > *Примітка: Будь ласка, скористайтеся пробним періодом, щоб переконатися, що всі функції відповідають вашим очікуванням перед покупкою.*
 
 ---

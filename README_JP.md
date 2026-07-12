@@ -90,7 +90,7 @@ BattOpt は、健康状態の傾向を把握するためのログを保持しま
 
 ### 🚀 BattOpt Pro へのアップグレード
 MacBook のバッテリー管理を最大限に活用しましょう。
-**[Polar 経由で Pro 版を購入・有効化する](https://polar.sh/checkout/polar_c_uaH8ALktJ3C6x6l1cfXhS1NXsAO8BA8WsLHuy1ubWUe)**
+**[Polar 経由で Pro 版を購入・有効化する](https://buy.polar.sh/polar_cl_6lBz0uWJ9HA3a3tyFR1op9x6WBNTqSoqF8tge0XNcgu)**
 > *注：購入前に試用期間を利用して、すべての機能が期待通りであることをご確認ください。*
 
 ---

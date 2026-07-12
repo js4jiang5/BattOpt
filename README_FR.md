@@ -90,7 +90,7 @@ Tous les utilisateurs bénéficient d'un **essai gratuit de 90 jours** des fonct
 
 ### 🚀 Passer à BattOpt Pro
 Libérez tout le potentiel de la gestion de batterie de votre MacBook.
-**[Acheter et activer Pro via Polar](https://polar.sh/checkout/polar_c_uaH8ALktJ3C6x6l1cfXhS1NXsAO8BA8WsLHuy1ubWUe)**
+**[Acheter et activer Pro via Polar](https://buy.polar.sh/polar_cl_6lBz0uWJ9HA3a3tyFR1op9x6WBNTqSoqF8tge0XNcgu)**
 > *Note : Utilisez la période d'essai pour confirmer que toutes les fonctions répondent à vos attentes avant l'achat.*
 
 ---

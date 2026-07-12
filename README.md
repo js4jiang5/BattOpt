@@ -98,7 +98,7 @@ All users enjoy a **90-day free trial** of Pro features immediately after instal
 
 ### 🚀 Upgrade to BattOpt Pro
 Unlock the full potential of your MacBook battery management. 
-**[Purchase & Activate Pro via Polar](https://polar.sh/checkout/polar_c_uaH8ALktJ3C6x6l1cfXhS1NXsAO8BA8WsLHuy1ubWUe)**
+**[Purchase & Activate Pro via Polar](https://buy.polar.sh/polar_cl_6lBz0uWJ9HA3a3tyFR1op9x6WBNTqSoqF8tge0XNcgu)**
 > *Note: Please verify all features meet your expectations before purchase.*
 
 ---
