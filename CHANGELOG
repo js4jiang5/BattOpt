@@ -1,3 +1,11 @@
+v1.1.6
+- Support macOS 27 beta !!!
+- improve temperature consistency across different macOS versions
+- improve sleep prevention stability during discharge
+- solve the issue that sometimes the messages are not shown in terminal of Operation page
+- solve the issue that Pro license sometimes is shown as Free version
+- calibrate and schedule in macOS 27 is not supported for Free version
+
 v1.1.5
 - Important! macOS27 is not supported yet. Please don't upgrade to macOS27 beta to avoid unexpected issues
 - solve the issue that daemon load fail in macOS27 and cause infinite loading
