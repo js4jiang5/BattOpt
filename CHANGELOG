@@ -1,3 +1,7 @@
+v1.1.7
+- modify command battopt info to include macOS 27 debug information
+- open calibrate and schedule in macOS 27 to free version
+
 v1.1.6
 - Support macOS 27 beta !!!
 - improve temperature consistency across different macOS versions

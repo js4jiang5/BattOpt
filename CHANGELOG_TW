@@ -1,3 +1,7 @@
+v1.1.7
+- 修改 battopt info 指令以增加 macOS 27 偵錯資訊
+- 開放 macOS 27 的校正與排程給免費版使用
+
 v1.1.6
 - 支援 macOS 27 beta 版 !!!
 - 改善跨不同 macOS 版本的溫度一致性
