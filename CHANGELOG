@@ -1,3 +1,8 @@
+v1.1.8
+- Add prevent system sleep with lid closed option. No longer need Amphetamine for this function.
+- Add prevent display sleep with lid closed option. No longer need Amphetamine for this function.
+- Solved the issue that charging lower limit becomes ineffective in macOS 27
+
 v1.1.7
 - modify command battopt info to include macOS 27 debug information
 - open calibrate and schedule in macOS 27 to free version
