@@ -1,3 +1,9 @@
+v1.1.9
+- allow keyboard/mouse to wakeup external monitor during discharge
+- speed up response of command execution for better user experience
+- add auto recovery mechanism to avoid stuck forever during charge/discharge
+- solved the issue that sometimes calibrate messages are not shown in mini terminal
+
 v1.1.8
 - Add prevent system sleep with lid closed option. No longer need Amphetamine for this function.
 - Add prevent display sleep with lid closed option. No longer need Amphetamine for this function.
