@@ -1,3 +1,7 @@
+v1.1.10
+- run daily log at absolute time 00:01 am
+- solved the issue of crash on old macOS 12 after supporting macOS 27
+
 v1.1.9
 - allow keyboard/mouse to wakeup external monitor during discharge
 - speed up response of command execution for better user experience
