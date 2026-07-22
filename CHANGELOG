@@ -1,3 +1,7 @@
+v1.1.11
+- Important! macOS 27 beta 4 is NOT supported (Apple broke charging control again).
+- Add protection for macOS 27 beta 4
+
 v1.1.10
 - run daily log at absolute time 00:01 am
 - solved the issue of crash on old macOS 12 after supporting macOS 27
