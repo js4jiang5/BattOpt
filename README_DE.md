@@ -75,7 +75,7 @@ BattOpt führt Protokolle, um den Zustand Ihrer Batterie zu verfolgen:
 
 ## 💎 Gratis vs. Pro
 
-Alle Benutzer erhalten sofort nach der Installation eine **90-tägige kostenlose Testversion** der Pro-Funktionen. Für den Start ist keine Kreditkarte erforderlich.
+Alle Benutzer erhalten sofort nach der Installation eine **30-tägige kostenlose Testversion** der Pro-Funktionen. Für den Start ist keine Kreditkarte erforderlich.
 
 | Funktion | Gratis | Pro |
 | :--- | :---: | :---: |

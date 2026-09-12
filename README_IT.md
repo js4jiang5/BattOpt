@@ -75,7 +75,7 @@ BattOpt mantiene i log per tracciare le tendenze di salute della batteria:
 
 ## 💎 Gratis vs. Pro
 
-Tutti gli utenti godono di una **prova gratuita di 90 giorni** delle funzioni Pro immediatamente dopo l'installazione. Non è richiesta alcuna carta di credito per iniziare.
+Tutti gli utenti godono di una **prova gratuita di 30 giorni** delle funzioni Pro immediatamente dopo l'installazione. Non è richiesta alcuna carta di credito per iniziare.
 
 | Caratteristica | Gratis | Pro |
 | :--- | :---: | :---: |

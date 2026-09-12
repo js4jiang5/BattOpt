@@ -83,7 +83,7 @@ BattOpt maintains persistent logs to help you track health trends:
 
 ## 💎 Free vs. Pro
 
-All users enjoy a **90-day free trial** of Pro features immediately after installation. No credit card required to start the trial.
+All users enjoy a **30-day free trial** of Pro features immediately after installation. No credit card required to start the trial.
 
 | Feature | Free | Pro |
 | :--- | :---: | :---: |

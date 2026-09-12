@@ -1,3 +1,9 @@
+v1.2.0
+- Fully support macOS 27. Must update BattOpt before upgrading to macOS 27 to avoid crash.
+- To set limit below 80% in macOS 27 or newer, "Allow limit < 80" must be toggled on. Disable it if system becomes unstable.
+- If "Allow limit < 80" is not enabled, the battery will charge to 100% occasionally.
+- "Allow limit < 80" option appears only when macOS is 27 or newer.
+
 v1.1.11
 - Important! macOS 27 beta 4 is NOT supported (Apple broke charging control again).
 - Add protection for macOS 27 beta 4

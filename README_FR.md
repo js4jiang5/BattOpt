@@ -75,7 +75,7 @@ BattOpt conserve des journaux pour suivre l'évolution de la santé de votre bat
 
 ## 💎 Gratuit vs. Pro
 
-Tous les utilisateurs bénéficient d'un **essai gratuit de 90 jours** des fonctions Pro immédiatement après l'installation. Aucune carte de crédit n'est requise pour commencer.
+Tous les utilisateurs bénéficient d'un **essai gratuit de 30 jours** des fonctions Pro immédiatement après l'installation. Aucune carte de crédit n'est requise pour commencer.
 
 | Fonctionnalité | Gratuit | Pro |
 | :--- | :---: | :---: |
