@@ -1,3 +1,7 @@
+v1.2.1
+- try to solve the issue of daemon start failure after upgrade
+- fix a bug in lower limit range validation
+
 v1.2.0
 - Fully support macOS 27. Must update BattOpt before upgrading to macOS 27 to avoid crash.
 - To set limit below 80% in macOS 27 or newer, "Allow limit < 80" must be toggled on. Disable it if system becomes unstable.
