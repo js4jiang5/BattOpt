@@ -2,6 +2,7 @@ v1.2.2
 - Improved stability of charge and discharge control for macOS 27
 - Solved the issue of daemon start failure after previous BattOpt update
 - Reboot Macbook after this update is suggested to eliminate residual effect of previous version
+- It's normal that update takes longer time because Github is slow recently. 
 
 v1.2.1
 - Try to solve the issue of daemon start failure after upgrade
