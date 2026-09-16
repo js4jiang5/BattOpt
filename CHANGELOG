@@ -1,6 +1,11 @@
+v1.2.2
+- Improved stability of charge and discharge control for macOS 27
+- Solved the issue of daemon start failure after previous BattOpt update
+- Reboot Macbook after this update is suggested to eliminate residual effect of previous version
+
 v1.2.1
-- try to solve the issue of daemon start failure after upgrade
-- fix a bug in lower limit range validation
+- Try to solve the issue of daemon start failure after upgrade
+- Fix a bug in lower limit range validation
 
 v1.2.0
 - Fully support macOS 27. Must update BattOpt before upgrading to macOS 27 to avoid crash.
