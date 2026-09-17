@@ -78,6 +78,7 @@ BattOpt maintains persistent logs to help you track health trends:
 | :--- | :--- | :--- |
 | **GUI** | macOS 11+ | macOS 11+ |
 | **CLI** | macOS 10.12+ | macOS 11+ |
+> *Note: macOS 27 Golden Gate is fully supported now.*
 
 ---
 

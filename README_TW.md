@@ -78,6 +78,7 @@ BattOpt 提供持續性的記錄，協助您追蹤健康趨勢：
 | :--- | :--- | :--- |
 | **GUI** | macOS 11+ | macOS 11+ |
 | **CLI** | macOS 10.12+ | macOS 11+ |
+> *備註：完整支援 macOS 27 Golden Gate。*
 
 ---
 
