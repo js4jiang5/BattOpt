@@ -1,3 +1,8 @@
+v1.2.3
+- Further improved stability of charge control for macOS 27
+- Allow free version to set limit at 70 or above in macOS 27
+- It's normal that update takes longer time because Github is slow recently. 
+
 v1.2.2
 - Improved stability of charge and discharge control for macOS 27
 - Solved the issue of daemon start failure after previous BattOpt update
