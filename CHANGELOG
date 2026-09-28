@@ -1,3 +1,7 @@
+v1.2.4
+- Fixed a calibration bug in macOS 27 that charging to 100% sometimes is not started after discharged to 15%
+- Toggle 'allow limit < 80' no longer required for macOS 27
+
 v1.2.3
 - Further improved stability of charge control for macOS 27
 - Allow free version to set limit at 70 or above in macOS 27
