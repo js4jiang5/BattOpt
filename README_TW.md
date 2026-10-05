@@ -106,13 +106,8 @@ BattOpt 提供持續性的記錄，協助您追蹤健康趨勢：
 
 ## 🚀 安裝方式
 
-### 選項 1：直接下載（推薦）
+### 直接下載
 從 [Releases 頁面](https://battopt.buddha-path.top/latest.html) 下載最新的 `.dmg` 安裝程式。
-
-### 選項 2：Homebrew 
-```bash
-brew install --cask js4jiang5/battopt/battopt
-```
 
 ### 針對 macOS 10.12 - 10.15 使用者（僅限 CLI）
 ```bash

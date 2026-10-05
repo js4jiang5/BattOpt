@@ -97,13 +97,8 @@ Nutzen Sie das volle Potenzial des Batteriemanagements Ihres MacBooks.
 
 ## 🚀 Installation
 
-### Option 1: Direkter Download (Empfohlen)
+### Direkter Download
 Laden Sie das neueste `.dmg`-Installationsprogramm von der [Releases-Seite](https://battopt.buddha-path.top/latest.html) herunter.
-
-### Option 2: Homebrew 
-```bash
-brew install --cask js4jiang5/battopt/battopt
-```
 
 ### Für macOS 10.12 - 10.15 Benutzer (Nur CLI)
 ```bash
