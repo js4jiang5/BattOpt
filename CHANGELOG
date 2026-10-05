@@ -1,3 +1,7 @@
+v1.2.6
+- Improved charging control efficiency and stability in macOS 27
+- It's normal that update takes longer time because Github is slow recently. 
+
 v1.2.5
 - Show both macOS and real battery level percentage in Menubar
 - Add the option of Charge/Discharge/Calibrate based on real battery level percentage
