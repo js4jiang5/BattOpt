@@ -1,3 +1,8 @@
+v1.2.7
+- Reduced boot-up time for macOS 27
+- Further improved charging control efficiency and stability in macOS 27
+- It's normal that update takes longer time because Github is slow recently. 
+
 v1.2.6
 - Improved charging control efficiency and stability in macOS 27
 - It's normal that update takes longer time because Github is slow recently. 
