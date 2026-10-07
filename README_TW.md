@@ -100,8 +100,8 @@ BattOpt 提供持續性的記錄，協助您追蹤健康趨勢：
 ### 🚀 升級至 BattOpt Pro
 釋放 MacBook 電池管理的完整潛力。
 **[點此透過 Polar 購買並啟用 Pro](https://buy.polar.sh/polar_cl_6lBz0uWJ9HA3a3tyFR1op9x6WBNTqSoqF8tge0XNcgu)**
-> *備註：購買前請先利用試用期確認所有功能符合您的預期。*
-
+> *備註 1：購買前請先利用試用期確認所有功能符合您的預期。*<br>
+> *備註 2：每張授權最多可在兩台 MacBook 上啟用。啟用後，無法將授權轉移至其他 MacBook。*
 ---
 
 ## 🚀 安裝方式

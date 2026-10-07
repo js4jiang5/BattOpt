@@ -91,7 +91,8 @@ Tutti gli utenti godono di una **prova gratuita di 30 giorni** delle funzioni Pr
 ### 🚀 Passa a BattOpt Pro
 Sblocca tutto il potenziale della gestione batteria del tuo MacBook.
 **[Acquista e attiva Pro tramite Polar](https://buy.polar.sh/polar_cl_6lBz0uWJ9HA3a3tyFR1op9x6WBNTqSoqF8tge0XNcgu)**
-> *Nota: Ti invitiamo a usare il periodo di prova per confermare che tutte le funzioni soddisfino le tue aspettative prima dell'acquisto.*
+> *Nota 1: Ti invitiamo a usare il periodo di prova per confermare che tutte le funzioni soddisfino le tue aspettative prima dell'acquisto.*<br>
+> *Nota 2: Ogni licenza può essere attivata su un massimo di due MacBook. Dopo l'attivazione, non è possibile trasferire la licenza a un altro MacBook.*
 
 ---
 

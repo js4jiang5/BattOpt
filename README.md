@@ -100,7 +100,8 @@ All users enjoy a **30-day free trial** of Pro features immediately after instal
 ### 🚀 Upgrade to BattOpt Pro
 Unlock the full potential of your MacBook battery management. 
 **[Purchase & Activate Pro via Polar](https://buy.polar.sh/polar_cl_6lBz0uWJ9HA3a3tyFR1op9x6WBNTqSoqF8tge0XNcgu)**
-> *Note: Please verify all features meet your expectations before purchase.*
+> *Note 1: Please verify all features meet your expectations before purchase.*<br>
+> *Note 2: Each license can be activated on up to two MacBooks. You cannot transfer a license to another MacBook after activation.*
 
 ---
 
