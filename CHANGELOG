@@ -1,3 +1,7 @@
+v1.2.8
+This update is critical. Please don't skip.
+- Fixed a bug of v1.2.7 which might cause micro-charging and make sail mode ineffective.
+
 v1.2.7
 - Reduced boot-up time for macOS 27
 - Further improved charging control efficiency and stability in macOS 27
