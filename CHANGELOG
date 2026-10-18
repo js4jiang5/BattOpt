@@ -1,3 +1,6 @@
+v1.2.9
+- Add a self-test mechanism to prevent side effects if charging control fails due to future macOS updates.
+
 v1.2.8
 This update is critical. Please don't skip.
 - Fixed a bug of v1.2.7 which might cause micro-charging and make sail mode ineffective.
