@@ -1,3 +1,8 @@
+v1.2.10
+This update is critical for EU and US using daylight savings time (DST)
+- Fixed a bug caused by switching of daylight savings time
+- Fixed a calibration scheduling bug which delayed 1 week when selected weekday is Sunday
+
 v1.2.9
 - Add a self-test mechanism to prevent side effects if charging control fails due to future macOS updates.
 
