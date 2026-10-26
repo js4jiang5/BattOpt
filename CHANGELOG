@@ -1,3 +1,7 @@
+v1.2.11
+- Resume charging on system wake if it was paused due to sleep
+- Fixed an issue where redundant SMC control intermittently paused battery discharge
+
 v1.2.10
 This update is critical for EU and US using daylight savings time (DST)
 - Fixed a bug caused by switching of daylight savings time
