@@ -1,3 +1,11 @@
+v1.2.12
+This update is critical for macOS 27, especially for macOS 27.2 to avoid crash.
+- Fixed an issue that might cause crash in macOS 27.2
+- Enhance protection to prevent infinite daemon re-launch if app crashes due to future macOS updates.
+
+New feature
+- For macOS 15.8.x and 26.7.x, make charging limit remains effective even during sleep.
+
 v1.2.11
 - Resume charging on system wake if it was paused due to sleep
 - Fixed an issue where redundant SMC control intermittently paused battery discharge
