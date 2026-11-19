@@ -22,6 +22,13 @@
 
 ---
 
+## 🛑 제 macOS 27 솔루션을 무단으로 유출한 분께:
+
+| |
+| :--- |
+| **제발 멈춰주세요!**<br>**BattOpt**를 통해 발생한 수익은 단 1원도 빠짐없이 도움이 필요한 사람들과 동물들을 돕는 데 전액 기부되며, 그 외의 다른 목적으로는 일절 사용되지 않습니다. |
+
+
 ### 🌍 스크린샷 &nbsp;[(상세 매뉴얼)](https://battopt.buddha-path.top/manual_kr.html)
 **BattOpt**는 직관적인 GUI와 강력한 CLI를 결합한 설계를 갖추고 있습니다. 위치 기반 **영역(Zone)** 설정을 통해 집, 직장, 여행지에 따라 충전 제한을 별도로 구성할 수 있습니다.
 [![한국어 GUI](assets/screenshots/kr/gui-limit-home.png)](https://battopt.buddha-path.top/manual_kr.html)

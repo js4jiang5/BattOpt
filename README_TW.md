@@ -22,6 +22,11 @@
 </p>
 
 ---
+## 🛑 致外流我 macOS 27 解決方案的人：
+
+| |
+| :--- |
+| **請停止這種行為！**<br>**BattOpt** 所賺取的每一分錢都全數捐出，用於幫助有需要的人與動物，別無他用。 |
 
 ### 🌍 介面預覽 &nbsp;[(更多預覽)](https://battopt.buddha-path.top/manual_tw.html)
 **BattOpt** 採用 GUI/CLI 雙介面設計，具備地點感知功能（**區域設定**），可針對「居家」、「工作」與「旅行」分別設定不同的充電限制。全新版本已正式整合 [Andish](https://github.com/js4jiang5/Andish) 核心，支援在 Mac 上遠端定時監控與保護您的安卓手機電池！

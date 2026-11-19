@@ -1,3 +1,8 @@
+v2.0.0
+To whoever leaked my macOS 27 solution: Please stop! Every penny earned from BattOpt is donated to help people and animals in need, and nothing else.
+- Improved charging control speed for macOS 27
+- Improved compatibility and robustness for macOS 27
+
 v1.2.12
 This update is critical for macOS 27, especially for macOS 27.2 to avoid crash.
 - Fixed an issue that might cause crash in macOS 27.2

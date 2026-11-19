@@ -23,6 +23,12 @@
 
 ---
 
+## 🛑 To whoever leaked my macOS 27 solution:
+
+| |
+| :--- |
+| **Please stop!**<br>Every penny earned from **BattOpt** is donated to help people and animals in need, and nothing else. |
+
 ### 🌍 Snapshot &nbsp;&nbsp;[(More Snapshots)](https://battopt.buddha-path.top/manual.html)
 **BattOpt** features a hybrid GUI/CLI design with location-based **Zone** settings to setup charge limits separately for Home, Work, and Travel. The latest release officially integrates the [Andish](https://github.com/js4jiang5/Andish) core, enabling you to remotely monitor and protect your Android phone battery directly from your Mac!
 [![English GUI](assets/screenshots/en/gui-limit-home.png)](https://battopt.buddha-path.top/manual.html)

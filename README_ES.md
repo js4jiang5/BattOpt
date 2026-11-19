@@ -21,6 +21,12 @@
 </p>
 
 ---
+## 🛑 A quien haya filtrado mi solución para macOS 27:
+
+| |
+| :--- |
+| **¡Por favor, detente!**<br>Cada centavo ganado con **BattOpt** se dona para ayudar a personas y animales necesitados, y para nada más. |
+
 
 ### 🌍 Vista previa &nbsp;[(Manual detallado)](https://battopt.buddha-path.top/manual_es.html)
 **BattOpt** presenta un diseño híbrido GUI/CLI con configuraciones de **Zonas** basadas en la ubicación para establecer límites de carga por separado para el Hogar, el Trabajo y los Viajes.

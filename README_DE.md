@@ -21,6 +21,12 @@
 </p>
 
 ---
+## 🛑 An die Person, die meine macOS 27-Lösung geleakt hat:
+
+| |
+| :--- |
+| **Bitte hör auf damit!**<br>Jeder einzelne Cent, der mit **BattOpt** verdient wird, wird gespendet, um Menschen und Tieren in Not zu helfen – und für nichts anderes. |
+
 
 ### 🌍 Vorschau &nbsp;[(Detailliertes Handbuch)](https://battopt.buddha-path.top/manual_de.html)
 **BattOpt** bietet ein hybrides GUI/CLI-Design mit standortbasierten **Zonen-Einstellungen**, um Ladelimits separat für Zuhause, Arbeit und Reisen zu konfigurieren.
