@@ -1,3 +1,8 @@
+v2.0.1
+- Changed design to stop charging after reboot if percentage is between lower and upper limits (original design was keep charging to upper limit)
+- Add one more layer of protection for potential charging control failure due to future macOS update
+- Fixed a bug in version update
+
 v2.0.0
 To whoever leaked my macOS 27 solution: Please stop! Every penny earned from BattOpt is donated to help people and animals in need, and nothing else.
 - Improved charging control speed for macOS 27
