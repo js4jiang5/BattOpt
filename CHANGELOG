@@ -1,3 +1,7 @@
+v2.0.2
+- Fixed an issue where daily and calibration logs were wiped after macOS updates
+- Capped debug log size to prevent excessive disk usage
+
 v2.0.1
 - Changed design to stop charging after reboot if percentage is between lower and upper limits (original design was keep charging to upper limit)
 - Add one more layer of protection for potential charging control failure due to future macOS update
